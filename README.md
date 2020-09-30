@@ -1,4 +1,5 @@
 # Primero repositorio de GitHub
 
-## Autor 
+## Autor
+ 
 Diego Sotomayor
